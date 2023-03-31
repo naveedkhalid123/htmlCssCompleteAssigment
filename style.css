@@ -1,0 +1,23 @@
+.h{
+    border: 1px black solid;
+}
+
+/*  contact page */
+
+.form{
+    text-align: center;
+   
+}
+
+.form input{
+    margin-top: 8px;
+}
+
+#textarea{
+    margin-top: 10px;
+}
+
+#submit{
+    padding:4px 12px;
+}
+
